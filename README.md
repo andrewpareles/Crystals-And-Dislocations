@@ -13,7 +13,7 @@ for further details on the Mathematica file `Dislocations.nb`. It outlines all t
 
 Lines are connections between sites. Note that only hexagonal crystals are shown in this demo, but any unit cell and any Hamiltonian can be created and used in the same exact way.
 
-**_left_**: A crystal with a simple dislocation (Burgers vector = {1,0,0}). Note the continued hexagonal pattern everywhere$^\star$.
+**_left_**: A crystal with a simple dislocation (Burgers vector = {1,0,0}). Note the the hexagonal pattern continues at all points$^\star$.
 
 **_center_**: A cylinder of graphene: imagine the transparent connections as "deeper into the screen" or "behind" the other connections, making the crystal's topology one of a cylinder. Connections that wrap over the boundary are drawn transparent.
 
@@ -26,7 +26,7 @@ Lines are connections between sites. Note that only hexagonal crystals are shown
   <img src="/images/!dis.png" alt="dislocation 1" width="250"/> <img src="/images/!haldane.png" alt="haldane wavefn" width="250"/> <img src="/images/!KM.png" alt="kanemele wavefn" width="250"/>
 </p>
 
-Wavefunctions are drawn with radius $\propto$ amplitude, color $\propto$ phase. 
+Wavefunctions are drawn with radius $\propto$ amplitude, color $\propto$ phase. The crystal's connections are still drawn too.
 
 **_left_**: A crystal with a dislocation (Burgers vector = {2,3,0}).
 
@@ -52,5 +52,7 @@ Wavefunctions are drawn with radius $\propto$ amplitude, color $\propto$ phase.
 
 
 $^\star$
-An electron in the bulk of this crystal sees the crystal as being perfectly uniform, except for the single point at the very center. That's because the hexagon pattern continues at all points in the crystal except for the center point (this is the definition of the dislocation). Some hexagons do look stretched, but note that the locations of the sites drawn carry no meaning: only the connections are meaningful. (This was the simplest design choice for creating a dislocation on a computer:
-start with a perfect crystal, manipulate the connections and remove some sites to create the dislocation, and don't worry about about drawing distances accurately afterwards since we only care about connections anyway).
+An electron in the bulk of this crystal sees the crystal as being perfectly uniform, except for the single point at the very center. That's because the hexagon pattern continues at all points in the crystal except for the center point (this is the definition of the dislocation). Some hexagons do look stretched, but note that the locations of the sites drawn carry no meaning: only the connections are meaningful. 
+
+This was the simplest design choice for creating a dislocation on a computer:
+start with a perfect crystal, manipulate the connections and remove some sites to create the dislocation, and don't worry about about drawing distances accurately afterwards since we only care about connections anyway.
