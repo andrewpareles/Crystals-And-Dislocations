@@ -5,7 +5,7 @@ for further details. It outlines all the user-intended functions, covers importa
 
 ## Illustrations made with this library:
 
-### 1. Basic Functionality:
+### 1. Basic Functionality Demo:
 
 <p align="center">
 <img src="/images/1.png" alt="graphene with a dislocation" width="300"/><img src="/images/2.png" alt="a loop of graphene" width="300"/><img src="/images/3.png" alt="haldane model zoomed in" width="150" style="100"/>
@@ -20,7 +20,7 @@ Lines are connections between sites. Note that only hexagonal crystals are shown
 **_right_**: Connections that are imaginary or complex are drawn with an arrow (this precise model is the Haldane Model).
 
 
-### 2. Wavefunction Drawings:
+### 2. Wavefunction Drawing Demo:
 
 <p align="center">
   <img src="/images/!dis.png" alt="dislocation 1" width="300"/> <img src="/images/!haldane.png" alt="haldane wavefn" width="300"/> <img src="/images/!KM.png" alt="kanemele wavefn" width="300"/>
@@ -32,7 +32,7 @@ Lines are connections between sites. Note that only hexagonal crystals are shown
 
 **_right_**: One of the eigenstates or "wavefunctions" localized on the crystal's edge (Kane Mele Model).
 
-### 3. Band Diagrams:
+### 3. Band Diagram Demo:
 
 <p align="center">
 <img src="/images/band1.png" alt="band" width="500"/><img src="/images/band2.png" alt="band" width="500"/>
