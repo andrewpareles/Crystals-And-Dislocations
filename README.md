@@ -47,8 +47,6 @@ Lines are connections between sites. Note that only hexagonal crystals are shown
 <img src="/images/band1.5.png" alt="band alt view" width="300"/>
 
 <br>
-<br>
-<br>
 
 
 $^\star$
