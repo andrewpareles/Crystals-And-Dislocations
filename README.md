@@ -50,5 +50,5 @@ Lines are connections between sites. Note that only hexagonal crystals are shown
 
 
 $^\star$
-The crystal is uniform everywhere except at the dislocation, as expected. You can tell this from the uniform hexagon pattern everywhere, except at the center of the crystal which is on the dislocation line. It looks like the crystal is not uniform due to some spacing between sites in the drawing, but note that the locations of the sites drawn carry no meaning: only the connections are meaningful. (This was the simplest design choice for creating a dislocation on a computer:
+The crystal is uniform everywhere except at the dislocation, which is at the center of the crystal. You can tell this from the uniform hexagon pattern everywhere except at the center of the crystal. It looks like the crystal is not uniform due to some spacing between sites in the drawing, but note that the locations of the sites drawn carry no meaning: only the connections are meaningful. (This was the simplest design choice for creating a dislocation on a computer:
 create a perfect crystal, manipulate the connections, and don't worry about about drawing distances accurately since we only care about connections anyway).
