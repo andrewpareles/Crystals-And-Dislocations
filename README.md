@@ -13,9 +13,9 @@ for further details. It outlines all the user-intended functions, covers importa
 
 Lines are connections between sites. Note that only hexagonal crystals are shown in this demo, but any unit cell and any Hamiltonian can be created and used in the same exact way.
 
-**_left_**: A simple dislocation, with Burgers vector = {1,0,0}. Note the continued hexagonal pattern everywhere$^\star$.
+**_left_**: A crystal with a simple dislocation (Burgers vector = {1,0,0}). Note the continued hexagonal pattern everywhere$^\star$.
 
-**_center_**: A cylinder of graphene: imagine the transparent connections as "deeper into the screen" or "behind" the other connections, creating the topology of a cylinder. Connections that wrap over the boundary are drawn transparent.
+**_center_**: A cylinder of graphene: imagine the transparent connections as "deeper into the screen" or "behind" the other connections, making the crystal's topology one of a cylinder. Connections that wrap over the boundary are drawn transparent.
 
 **_right_**: The crystal drawn is the Haldane Model. Connections that are imaginary or complex are drawn with an arrow.
 
