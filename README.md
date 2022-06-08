@@ -17,7 +17,7 @@ Lines are connections between sites. Note that only hexagonal crystals are shown
 
 **_center_**: A cylinder of graphene: imagine the transparent connections as "deeper into the screen" or "behind" the other connections, making the crystal's topology one of a cylinder. Connections that wrap over the boundary are drawn transparent.
 
-**_right_**: The crystal drawn is the Haldane Model. Connections that are imaginary or complex are drawn with an arrow as they're obviously directional.
+**_right_**: The crystal drawn is the Haldane Model. Connections that are imaginary or complex are drawn with an arrow.
 
 
 ### 2. Wavefunction Drawing Demo:
