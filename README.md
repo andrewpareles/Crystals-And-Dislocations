@@ -13,11 +13,11 @@ for further details. It outlines all the user-intended functions, covers importa
 
 Lines are connections between sites. Note that only hexagonal crystals are shown in this demo, but any unit cell and any Hamiltonian can be created and used in the same exact way.
 
-**_left_**: A crystal with a simple dislocation (Burgers vector = {1,0,0}). Note the continued hexagonal pattern everywhere$^\star$.
+**_left/first_**: A crystal with a simple dislocation (Burgers vector = {1,0,0}). Note the continued hexagonal pattern everywhere$^\star$.
 
-**_center_**: A cylinder of graphene: imagine the transparent connections as "deeper into the screen" or "behind" the other connections, making the crystal's topology one of a cylinder. Connections that wrap over the boundary are drawn transparent.
+**_center/second_**: A cylinder of graphene: imagine the transparent connections as "deeper into the screen" or "behind" the other connections, making the crystal's topology one of a cylinder. Connections that wrap over the boundary are drawn transparent.
 
-**_right_**: The crystal drawn is the Haldane Model. Connections that are imaginary or complex are drawn with an arrow.
+**_right/third_**: The crystal drawn is the Haldane Model. Connections that are imaginary or complex are drawn with an arrow.
 
 
 ### 2. Wavefunction Drawing Demo:
@@ -26,11 +26,11 @@ Lines are connections between sites. Note that only hexagonal crystals are shown
   <img src="/images/!dis.png" alt="dislocation 1" width="300"/> <img src="/images/!haldane.png" alt="haldane wavefn" width="300"/> <img src="/images/!KM.png" alt="kanemele wavefn" width="300"/>
 </p>
 
-**_left_**: A crystal with a dislocation (Burgers vector = {2,3,0}).
+**_left/first_**: A crystal with a dislocation (Burgers vector = {2,3,0}).
 
-**_center_**: One of the eigenstates or "wavefunctions" localized on the crystal's edge (Haldane Model).
+**_center/second_**: One of the eigenstates or "wavefunctions" localized on the crystal's edge (Haldane Model).
 
-**_right_**: One of the eigenstates or "wavefunctions" localized on the crystal's edge (Kane Mele Model).
+**_right/third_**: One of the eigenstates or "wavefunctions" localized on the crystal's edge (Kane Mele Model).
 
 ### 3. Band Diagram Demo:
 
@@ -38,11 +38,11 @@ Lines are connections between sites. Note that only hexagonal crystals are shown
 <img src="/images/band1.png" alt="band" width="500"/><img src="/images/band2.png" alt="band" width="500"/>
 </p>
 
-**_left_**: Band plot for a crystal that has two periodic directions (see **_below_** for an alternate angle).
+**_left/first_**: Band plot for a crystal that has two periodic directions (see **_below_** for an alternate angle).
 
-**_right_**: Band plot for the same crystal, but the crystal is periodic in only one direction. Note the couple of differences: these are the energies of states that live on the edge/boundary that was introduced going from fully periodic to periodic in only one direction.
+**_right/second_**: Band plot for the same crystal, but the crystal is periodic in only one direction. Note the couple of differences: these are the energies of states that live on the edge/boundary that was introduced going from fully periodic to periodic in only one direction.
 
-**_below_**: An alternate view of the **_left_** band plot.
+**_below/third_**: An alternate view of the **_left_** band plot.
 
 <img src="/images/band1.5.png" alt="band alt view" width="300"/>
 
