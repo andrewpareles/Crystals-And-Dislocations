@@ -15,9 +15,9 @@ Lines are connections between sites. Note that only hexagonal crystals are shown
 
 **_left_**: A simple dislocation, with Burgers vector = {1,0,0}. Note the continued hexagonal pattern everywhere$^\star$.
 
-**_center_**: A cylinder of graphene: imagine the transparent connections as "deeper into the screen" or "behind" the other connections, creating the topology of a cylinder (transparent means periodic connections).
+**_center_**: A cylinder of graphene: imagine the transparent connections as "deeper into the screen" or "behind" the other connections, creating the topology of a cylinder. Connections that wrap over the boundary are transparent.
 
-**_right_**: Connections that are imaginary or complex are drawn with an arrow (this precise model is the Haldane Model).
+**_right_**: Connections that are imaginary or complex are drawn with an arrow. (This precise model is the Haldane Model).
 
 
 ### 2. Wavefunction Drawing Demo:
@@ -53,5 +53,5 @@ Lines are connections between sites. Note that only hexagonal crystals are shown
 
 $^\star$
 The crystal is uniform everywhere except at the dislocation, as expected. You can tell this from the uniform hexagon pattern everywhere except at the center of the crystal, which is on the dislocation line. 
-Note that the locations of the sites drawn carry no meaning: only the connections are meaningful. (this was the simplest design choice for creating a dislocation on a computer:
+Note that the locations of the sites drawn carry no meaning: only the connections are meaningful. (This was the simplest design choice for creating a dislocation on a computer:
 create a perfect crystal, manipulate the connections, and don't worry about about drawing distances accurately since we only care about connections anyway).
