@@ -23,7 +23,7 @@ Lines are connections between sites. Note that only hexagonal crystals are shown
 ### 2. Wavefunction Drawing Demo:
 
 <p align="center">
-  <img src="/images/!dis.png" alt="dislocation 1" width="300"/> <img src="/images/!haldane.png" alt="haldane wavefn" width="300"/> <img src="/images/!KM.png" alt="kanemele wavefn" width="300"/>
+  <img src="/images/!dis.png" alt="dislocation 1" width="200"/> <img src="/images/!haldane.png" alt="haldane wavefn" width="200"/> <img src="/images/!KM.png" alt="kanemele wavefn" width="200"/>
 </p>
 
 **_left/first_**: A crystal with a dislocation (Burgers vector = {2,3,0}).
