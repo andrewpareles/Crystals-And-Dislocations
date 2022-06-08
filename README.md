@@ -13,11 +13,11 @@ for further details. It outlines all the user-intended functions, covers importa
 
 Lines are connections between sites. Note that only hexagonal crystals are shown in this demo, but any unit cell and any Hamiltonian can be created and used in the same exact way.
 
-**_left/first_**: A crystal with a simple dislocation (Burgers vector = {1,0,0}). Note the continued hexagonal pattern everywhere$^\star$.
+**_left_**: A crystal with a simple dislocation (Burgers vector = {1,0,0}). Note the continued hexagonal pattern everywhere$^\star$.
 
-**_center/second_**: A cylinder of graphene: imagine the transparent connections as "deeper into the screen" or "behind" the other connections, making the crystal's topology one of a cylinder. Connections that wrap over the boundary are drawn transparent.
+**_center_**: A cylinder of graphene: imagine the transparent connections as "deeper into the screen" or "behind" the other connections, making the crystal's topology one of a cylinder. Connections that wrap over the boundary are drawn transparent.
 
-**_right/third_**: The crystal drawn is the Haldane Model. Connections that are imaginary or complex are drawn with an arrow.
+**_right_**: The crystal drawn is the Haldane Model. Connections that are imaginary or complex are drawn with an arrow.
 
 
 ### 2. Wavefunction Drawing Demo:
@@ -26,11 +26,11 @@ Lines are connections between sites. Note that only hexagonal crystals are shown
   <img src="/images/!dis.png" alt="dislocation 1" width="250"/> <img src="/images/!haldane.png" alt="haldane wavefn" width="250"/> <img src="/images/!KM.png" alt="kanemele wavefn" width="250"/>
 </p>
 
-**_left/first_**: A crystal with a dislocation (Burgers vector = {2,3,0}).
+**_left_**: A crystal with a dislocation (Burgers vector = {2,3,0}).
 
-**_center/second_**: One of the eigenstates or "wavefunctions" localized on the crystal's edge (Haldane Model).
+**_center_**: One of the eigenstates or "wavefunctions" localized on the crystal's edge (Haldane Model).
 
-**_right/third_**: One of the eigenstates or "wavefunctions" localized on the crystal's edge (Kane Mele Model).
+**_right_**: One of the eigenstates or "wavefunctions" localized on the crystal's edge (Kane Mele Model).
 
 ### 3. Band Diagram Demo:
 
