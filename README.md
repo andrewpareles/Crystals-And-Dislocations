@@ -40,7 +40,7 @@ Lines are connections between sites. Note that only hexagonal crystals are shown
 
 **_left_**: Band plot of a crystal periodic in two directions (see **_below_** for an alternate angle).
 
-**_right_**: Band plot of the same crystal, but periodic in only one direction (note the couple of differences: these are the energies of states that live on the edge/boundary that was introduced going from fully periodic to periodic in only one direction).
+**_right_**: Band plot of the same crystal, but periodic in only one direction. Note the couple of differences: these are the energies of states that live on the edge/boundary that was introduced going from fully periodic to periodic in only one direction.
 
 **_below_**: An alternate view of the **_left_** band plot.
 
