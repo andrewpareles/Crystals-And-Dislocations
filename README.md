@@ -26,9 +26,11 @@ Lines are connections between sites. Note that only hexagonal crystals are shown
   <img src="/images/!dis.png" alt="dislocation 1" width="250"/> <img src="/images/!haldane.png" alt="haldane wavefn" width="250"/> <img src="/images/!KM.png" alt="kanemele wavefn" width="250"/>
 </p>
 
+Wavefunctions are drawn with radius $\propto$ amplitude, color $\propto$ phase. 
+
 **_left_**: A crystal with a dislocation (Burgers vector = {2,3,0}).
 
-**_center_**: One of the eigenstates or "wavefunctions" localized on the crystal's edge, robust against the dislocation (Haldane Model). Radius $\propto$ amplitude, color $\propto$ phase. 
+**_center_**: One of the eigenstates or "wavefunctions" localized on the crystal's edge, robust against the dislocation (Haldane Model). 
 
 **_right_**: Same as **_center_** (Kane Mele Model).
 
