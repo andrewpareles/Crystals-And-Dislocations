@@ -28,9 +28,9 @@ Lines are connections between sites. Note that only hexagonal crystals are shown
 
 **_left_**: A crystal with a dislocation (Burgers vector = {2,3,0}).
 
-**_center_**: One of the eigenstates or "wavefunctions" localized on the crystal's edge, robust against the dislocation (Haldane Model). Amplitude $\propto$ radius, phase $\propto$ color.
+**_center_**: One of the eigenstates or "wavefunctions" localized on the crystal's edge, robust against the dislocation (Haldane Model). Radius $\propto$ amplitude, color $\propto$ phase. 
 
-**_right_**: Same as center (Kane Mele Model).
+**_right_**: Same as **_center_** (Kane Mele Model).
 
 ### 3. Band Diagram Demo:
 
