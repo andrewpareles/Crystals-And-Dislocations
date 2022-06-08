@@ -1,4 +1,4 @@
-# Crystal-Dislocations-Research
+# Crystal-Dislocations
 
 See the [Dislocations.nb Guide](https://docs.google.com/document/d/1CMYfdGpIORvps4SmJXQvFXV0BvZFhSqLlSqkU6s1098/edit?usp=sharing)
 for further details. It outlines all the user-intended functions, covers important implementation details and conversions from math to code, and gives a few examples.
