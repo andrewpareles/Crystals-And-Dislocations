@@ -15,7 +15,7 @@ Lines are connections between sites. Note that only hexagonal crystals are shown
 
 **_left_**: A crystal with a simple dislocation (Burgers vector = {1,0,0}). Note the the hexagonal pattern continues at all points$^\star$.
 
-**_center_**: A cylinder of graphene: imagine the transparent connections as "deeper into the screen" or "behind" the other connections, making the crystal's topology one of a cylinder. Connections that wrap over the boundary are drawn transparent.
+**_center_**: A cylinder of graphene: imagine the transparent connections as "deeper into the screen" or "behind" the other connections, making the crystal's topology one of a cylinder. Connections that wrap over the boundary are drawn transparent. (The bottom left point can easily be removed to make it a perfect cylinder--this removal is difficult to do in general, so I left it as something for the user to do).
 
 **_right_**: The crystal drawn is the Haldane Model. Connections that are imaginary or complex are drawn with an arrow.
 
@@ -30,7 +30,7 @@ Wavefunctions are drawn with radius $\propto$ amplitude, color $\propto$ phase. 
 
 **_left_**: A crystal with a dislocation (Burgers vector = {2,3,0}).
 
-**_center_**: One of the eigenstates or "wavefunctions" localized on the crystal's edge, robust against the dislocation (Haldane Model). 
+**_center_**: One of the eigenstates or "wavefunctions" localized on the crystal's edge, robust against the dislocation (Haldane Model). This state appears because the crytal is finite, so has a boundary.
 
 **_right_**: Same as **_center_** (but with the Kane Mele Model).
 
@@ -42,7 +42,7 @@ Wavefunctions are drawn with radius $\propto$ amplitude, color $\propto$ phase. 
 
 **_left/first_**: Band plot for a crystal that has two periodic directions (see **_below_** for an alternate angle).
 
-**_right/second_**: Band plot for the same crystal, but the crystal is periodic in only one direction. Note the couple of differences: these are the energies of states that live on the edge/boundary that was introduced going from fully periodic to periodic in only one direction.
+**_right/second_**: Band plot for the same crystal, but the crystal is periodic in only one direction. Note the minor differences which are hard to see at first glance (a few lines that now appear in the 1D case): these are the energies of states that live on the edge/boundary that was introduced going from fully periodic to periodic in only one direction.
 
 **_below_**: An alternate view of the **_left/first_** band plot.
 
