@@ -13,7 +13,7 @@ for further details on the Mathematica file `Dislocations.nb` (the library). It 
 
 Lines are connections between sites. Note that only hexagonal crystals are shown in this demo, but any unit cell and any Hamiltonian can be created and used in the same exact way.
 
-**_left_**: A crystal with a simple dislocation (Burgers vector = {1,0,0}). Note the the hexagonal pattern continues at all points$^\star$.
+**_left_**$^\star$: A crystal with a simple dislocation (Burgers vector = {1,0,0}). Note the the hexagonal pattern continues at all points.
 
 **_center_**: A cylinder of graphene: imagine the transparent connections as "deeper into the screen" or "behind" the other connections, making the crystal's topology one of a cylinder. Connections that wrap over the boundary are drawn transparent. (The bottom left point can easily be removed to make it a perfect cylinder--this removal is not really possible to do in general, so I left it in).
 
@@ -28,7 +28,7 @@ Lines are connections between sites. Note that only hexagonal crystals are shown
 
 Wavefunctions are drawn with radius $\propto$ amplitude, color $\propto$ phase. The crystal's connections are still drawn too.
 
-**_left_**: A crystal with a dislocation (Burgers vector = {2,3,0}).
+**_left_**$^\star$: A crystal with a dislocation (Burgers vector = {2,3,0}).
 
 **_center_**: One of the eigenstates or "wavefunctions" localized on the crystal's edge, robust against the dislocation (Haldane Model). This state appears because the crytal is finite, so has a boundary.
 
