@@ -32,7 +32,7 @@ Wavefunctions are drawn with radius $\propto$ amplitude, color $\propto$ phase. 
 
 **_center_**: One of the eigenstates or "wavefunctions" localized on the crystal's edge, robust against the dislocation (Haldane Model) (imaginary connections are now drawn in addition to the real red connections). This state appears because the crytal is finite and has no periodic boundary conditions.
 
-**_right_**: Same as **_center_** (but with the Kane Mele Model).
+**_right_**: Same as **_center_** (but with Kane Mele Model).
 
 ### 3. Band Diagram Demo:
 
