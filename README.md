@@ -30,7 +30,7 @@ Wavefunctions are drawn with radius $\propto$ amplitude, color $\propto$ phase. 
 
 **_left_**$^\star$: A crystal with a dislocation (Burgers vector = {2,3,0}).
 
-**_center_**: One of the eigenstates or "wavefunctions" localized on the crystal's edge, robust against the dislocation (Haldane Model). This state appears because the crytal is finite, so has a boundary.
+**_center_**: One of the eigenstates or "wavefunctions" localized on the crystal's edge, robust against the dislocation (Haldane Model) (imaginary connections are now drawn in addition to the real red connections). This state appears because the crytal is finite and has a boundary.
 
 **_right_**: Same as **_center_** (but with the Kane Mele Model).
 
