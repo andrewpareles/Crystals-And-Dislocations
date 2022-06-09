@@ -15,7 +15,7 @@ Lines are connections between sites. Note that only hexagonal crystals are shown
 
 **_left_**$^\star$: A crystal with a simple dislocation (Burgers vector = {1,0,0}). Note the the hexagonal pattern continues at all points.
 
-**_center_**: A cylinder of graphene: imagine the transparent connections as "deeper into the screen" or "behind" the other connections, making the crystal's topology one of a cylinder. Connections that wrap over the boundary are drawn transparent. (The bottom left point can easily be removed to make it a perfect cylinder--this removal is not really possible to do in general, so I left it in).
+**_center_**: A cylinder of graphene: imagine the transparent connections as "deeper into the screen" or "behind" the other connections, making the crystal's topology one of a cylinder. Connections that wrap over the boundary are drawn transparent. (The bottom left point can easily be removed to make it a perfect cylinder--this removal is not possible to anticipate in general, so it is left in).
 
 **_right_**: The crystal drawn is the Haldane Model. Connections that are imaginary or complex are drawn with an arrow.
 
