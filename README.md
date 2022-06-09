@@ -11,7 +11,7 @@ for further details on the Mathematica file `Dislocations.nb` (the library). It 
 <img src="/images/1.png" alt="graphene with a dislocation" width="300"/><img src="/images/2.png" alt="a loop of graphene" width="300"/><img src="/images/3.png" alt="haldane model zoomed in" width="150" style="100"/>
 </p>
 
-Lines are connections between sites. Note that only hexagonal crystals are shown in this demo, but any unit cell and any Hamiltonian can be created and used in the same exact way--square, hexagonal, cubic, fcc, bcc, hcp, diamond, etc.
+Lines are connections between sites. Note that only hexagonal crystals are shown in this demo, but any unit cell and any Hamiltonian can be created and used in the same exact way--square, hexagonal, cubic, diamond, fcc, bcc, hcp, etc.
 
 **_left_**$^\star$: A crystal with a simple dislocation (Burgers vector = {1,0,0}). Note the the hexagonal pattern continues at all points.
 
