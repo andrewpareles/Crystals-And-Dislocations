@@ -40,7 +40,7 @@ Wavefunctions are drawn with radius $\propto$ amplitude, color $\propto$ phase. 
 <img src="/images/band1.png" alt="band" width="500"/><img src="/images/band2.png" alt="band" width="500"/>
 </p>
 
-**_left/first_**: Band plot for a crystal that has two periodic directions (see **_below_** for an alternate angle).
+**_left/first_**: Band plot for a crystal (not shown) that has two periodic directions (see **_below_** for an alternate angle).
 
 **_right/second_**: Band plot for the same crystal, but the crystal is periodic in only one direction. Note the minor differences which are hard to see at first glance (a few lines that now appear in the 1D case): these are the energies of states that live on the edge/boundary that was introduced going from fully periodic to periodic in only one direction.
 
