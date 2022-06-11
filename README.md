@@ -53,6 +53,7 @@ The notebook comes with very helpful Hamiltonian indexing functions. They let yo
 
 
 <br>
+<br>
 
 
 $^\star$
