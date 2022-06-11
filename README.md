@@ -13,7 +13,7 @@ for further details on the Mathematica file `Dislocations.nb` (the library). It 
 
 Lines are connections between sites. Note that only hexagonal crystals are shown in this demo, but any unit cell and any Hamiltonian can be created and analyzed in the same exact way--square, hexagonal, cubic, diamond, fcc, bcc, hcp, etc., with any pattern of connections between sites.
 
-**_left_**$^\star$: A crystal with a simple dislocation (Burgers vector = {1,0,0}). Note the the hexagonal pattern continues at all points$^\star$.
+**_left_**$^\dagger$: A crystal with a simple dislocation (Burgers vector = {1,0,0}). Note the the hexagonal pattern continues at all points$^\dagger$.
 
 **_center_**: Connections that wrap over the boundary are drawn transparent. This is a cylinder of graphene: imagine the transparent connections as looping around the back of the crystal (they're "deeper into the screen" or "behind" the other connections), making the crystal's topology one of a cylinder. The bottom left point can easily be removed to make it a perfect cylinder--this removal is not possible to anticipate in general, so it is left in.
 
@@ -56,7 +56,7 @@ The notebook offers code for creating crystals (reading cif files, importing uni
 <br>
 
 
-$^\star$
+$^\dagger$
 An electron in the bulk of this crystal sees the crystal as being perfectly uniform, except for the single point at the very center. That's because the hexagon pattern continues at all points in the crystal except for the center point (this is the definition of the dislocation). Some hexagons do look stretched, but note that the locations of the sites drawn carry no meaning: only the connections are meaningful. 
 
 This was the simplest design choice for creating a dislocation on a computer:
