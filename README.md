@@ -48,6 +48,10 @@ Wavefunctions are drawn with radius $\propto$ amplitude, color $\propto$ phase. 
 
 <img src="/images/band1.5.png" alt="band alt view" width="300"/>
 
+### 4. Indexing Vectors and Wavefunctions in a Hamiltonian:
+The notebook comes with very helpful Hamiltonian indexing functions. They let you convert between a coordinate/site in the crystal and an index in the Hamiltonian. `IndexOfCoord` assigns a unique number or "index" to each coordinate on a grid, and `CoordiOfIndex` is the inverse of that, giving the i$^th$ component of the coordinate which has index i. They're very abstract and can be used in more contexts than just Hamiltonians. The code also has variations that can be used to index Hamiltonians and eigenvectors even when sites were removed (ie in a dislocation), and require just 1 more piece of information. See the Guide for more. 
+
+
 <br>
 
 
