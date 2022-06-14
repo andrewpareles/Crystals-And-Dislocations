@@ -1,4 +1,4 @@
-# Crystals-And-Dislocations
+# Crystals-And-Dislocations-Mathematica
 
 See the [Dislocations.nb Guide](https://docs.google.com/document/d/1CMYfdGpIORvps4SmJXQvFXV0BvZFhSqLlSqkU6s1098/edit?usp=sharing)
 for further details on the Mathematica file `Dislocations.nb` (the library). It outlines all the user-intended functions, covers important implementation details and conversions from math to code, and gives a few examples. `Dislocations.nb` also has a Demos section which has many more examples and pictures.
