@@ -1,6 +1,6 @@
 # Crystals-And-Dislocations
 
-This is a code library for generating crystals with dislocations. See the [Dislocations.nb Guide](https://docs.google.com/document/d/1CMYfdGpIORvps4SmJXQvFXV0BvZFhSqLlSqkU6s1098/edit?usp=sharing)
+This library lets you generate crystals and add dislocations to them in general (you can specify the unit cell, Hamiltonian, Burgers vector, etc). See the [Dislocations.nb Guide](https://docs.google.com/document/d/1CMYfdGpIORvps4SmJXQvFXV0BvZFhSqLlSqkU6s1098/edit?usp=sharing)
 for further details on the Mathematica file `Dislocations.nb` (the library). It outlines all the user-intended functions, covers important implementation details and conversions from math to code, and gives a few examples. `Dislocations.nb` also has a Demos section which has many more examples and pictures.
 
 ## Illustrations made with this library:
