@@ -26,7 +26,7 @@ Lines are connections between sites. Note that only hexagonal crystals are shown
   <img src="/images/!dis.png" alt="dislocation 1" width="250"/> <img src="/images/!haldane.png" alt="haldane wavefn" width="250"/> <img src="/images/!KM.png" alt="kanemele wavefn" width="250"/>
 </p>
 
-Wavefunctions are drawn with radius $\propto$ amplitude, color $\propto$ phase. The crystal's connections are still drawn too.
+Wavefunctions are drawn with radius $\propto $ amplitude, color $\propto $ phase. The crystal's connections are still drawn too.
 
 **_left_**$^\star$: A crystal with a dislocation (Burgers vector = {2,3,0}).
 
