@@ -13,7 +13,7 @@ for further details on the Mathematica file `Dislocations.nb` (the library). It 
 
 Lines are connections between sites. Note that only hexagonal crystals are shown in this demo, but any unit cell and any Hamiltonian can be created and analyzed in the same exact way--square, hexagonal, cubic, diamond, fcc, bcc, hcp, etc., with any pattern of connections between sites.
 
-**_left_**$^\dagger$: A crystal with a simple dislocation (Burgers vector = {1,0,0}). Note the the hexagonal pattern continues at all points$^\dagger$.
+**_left_**$^\dagger$: A crystal with a simple dislocation (Burgers vector = {1,0,0}). Note the the hexagonal pattern continues at all points $^\dagger$.
 
 **_center_**: Connections that wrap over the boundary are drawn transparent. This is a cylinder of graphene: imagine the transparent connections as looping around the back of the crystal (they're "deeper into the screen" or "behind" the other connections), making the crystal's topology one of a cylinder. The bottom left point can easily be removed to make it a perfect cylinder--this removal is not possible to anticipate in general, so it is left in.
 
@@ -26,7 +26,7 @@ Lines are connections between sites. Note that only hexagonal crystals are shown
   <img src="/images/!dis.png" alt="dislocation 1" width="250"/> <img src="/images/!haldane.png" alt="haldane wavefn" width="250"/> <img src="/images/!KM.png" alt="kanemele wavefn" width="250"/>
 </p>
 
-Wavefunctions are drawn with radius $\propto $ amplitude, color $\propto $ phase. The crystal's connections are still drawn too.
+Wavefunctions are drawn with radius $\propto$ amplitude, color $\propto$ phase. The crystal's connections are still drawn too.
 
 **_left_**$^\star$: A crystal with a dislocation (Burgers vector = {2,3,0}).
 
