@@ -1,6 +1,9 @@
 # Crystals-And-Dislocations
 
-This library lets you generate crystals and add dislocations to them in general (you can specify the unit cell, Hamiltonian, Burgers vector, etc). `Dislocations.nb` has a Demos section which links you to the docs and has many more examples and pictures.
+This library lets you generate an arbitrary crystal structure of your choice (represented by a Hamiltonian matrix), add dislocations to the crystal (modifying the Hamiltonian), and numerically solve Schrodinger's equation on it.
+
+ You can specify the unit cell, Hamiltonian, Burgers vector, etc. Contact andrewpareles(at)gmail.com for the source. 
+
 
 ## Illustrations made with this library:
 
