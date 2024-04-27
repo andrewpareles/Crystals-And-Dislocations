@@ -2,7 +2,9 @@
 
 This library lets you generate an arbitrary crystal structure of choice (represented by a Hamiltonian matrix), add dislocations to the crystal (modifying the Hamiltonian), and numerically solve Schrodinger's equation on it.
 
- To generate the crystal you specify the unit cell, local Hamiltonian, and Burgers vector. Contact andrewpareles(at)gmail(dot)com for the source. 
+ To generate the crystal you specify the unit cell, local Hamiltonian, and Burgers vector. 
+ 
+ Contact andrewpareles(at)gmail(dot)com for the source. 
 
 
 ## Illustrations made with this library:
